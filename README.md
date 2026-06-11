@@ -112,7 +112,7 @@ HF_TOKEN=
 Recording Link:
 
 ```
-<loom-link>
+[<video-link>](https://drive.google.com/drive/folders/1Zq4-3elI3o2MxDS1Ubkbr_OSii0JHjpg)
 ```
 
 ---
