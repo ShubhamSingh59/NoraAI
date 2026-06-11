@@ -1,0 +1,5 @@
+.env
+myenv
+chroma_db/
+.pytest_cache/
+__pycache__/
